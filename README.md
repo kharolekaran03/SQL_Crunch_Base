@@ -1,5 +1,35 @@
 #Crunch Base  - SQL Project
 
+<h1>Here are concise conclusions based on the Crunch Base SQL project data analysis:</h1>
+
+<h2>Top 2 Countries with Most Investors:</h2>
+<p>United States and Canada are the top countries with the most investors, indicating a strong investment ecosystem in North America.</p>
+
+<h2>Investors with Investment Partners:</h2>
+<p>Many investors have investment partners, suggesting a collaborative investment environment.</p>
+
+<h2>Distribution of Investors:</h2>
+<p>Investors are split between organizations and individuals, reflecting a diverse investor base.</p>
+
+<h2>Top 2 Regions with Most Investors:</h2>
+<p> North America and Europe are the leading regions for investors, highlighting their roles as key investment hubs.</p>
+
+<h2> Social Media Presence:</h2>
+<p> Investors frequently use social media platforms like LinkedIn and Twitter for networking and maintaining a professional presence.</p>
+
+<h2>Degree Completion:</h2>
+<p>A substantial number of investors have completed their degrees, showing a high level of education in the investor community.</h2>
+
+<h2>Degree Enrollment:</h2>
+<p>Popular degrees among investors include MBA and PhD, indicating a mix of business acumen and specialized knowledge.</p>
+
+
+
+
+
+
+
+
         
 <h2>Few insights may include:</h2>
 
